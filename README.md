@@ -1,1 +1,2 @@
-# Game1
+# Ananya-Mario-Game
+Ananya Mario Game
